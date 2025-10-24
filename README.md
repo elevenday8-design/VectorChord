@@ -107,6 +107,8 @@ SELECT * FROM items ORDER BY embedding <-> '[3,1,2]' LIMIT 5;
 
 For more usage, please read:
 
+- [Examples walkthroughs](examples/README.md)
+
 - [Indexing](https://docs.vectorchord.ai/vectorchord/usage/indexing.html)
 - [Multi-Vector Retrieval](https://docs.vectorchord.ai/vectorchord/usage/indexing-with-maxsim-operators.html)
 - [Graph Index](https://docs.vectorchord.ai/vectorchord/usage/graph-index.html)
